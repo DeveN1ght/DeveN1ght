@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Fleur and I'm a fullstack developper, from Ivory Coast</h2>
+<h2 align="left">Hi! My name is Fleur and I'm a fullstack developper</h2>
 
 ### 
 <p align="left">I love turning ideas into real projects from modern web apps to mobile experiences powered by creativity, clean code. Currently growing through the WeCode program, I enjoy learning fast, solving real problems, and bringing positive energy to every project I touch.</p>
